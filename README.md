@@ -1,1 +1,1 @@
-`npx degit jazzymcjazz/node-ts-template my_project`
+`npx degit jazzymcjazz/nodejs-ts-template my_project`
